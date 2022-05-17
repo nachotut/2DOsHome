@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nachotut/reactjs-inicial/static/css/main.68883cd6.css",
+    "main.js": "/nachotut/reactjs-inicial/static/js/main.237c72bb.js",
+    "index.html": "/nachotut/reactjs-inicial/index.html",
+    "main.68883cd6.css.map": "/nachotut/reactjs-inicial/static/css/main.68883cd6.css.map",
+    "main.237c72bb.js.map": "/nachotut/reactjs-inicial/static/js/main.237c72bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68883cd6.css",
+    "static/js/main.237c72bb.js"
+  ]
+}
